@@ -12,6 +12,6 @@ crandom.get()
 ```
 
 ### roadmap
-color preference parameter
-alpha parameter
+color preference parameter<br>
+alpha parameter<br>
 color code parameter
